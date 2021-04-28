@@ -12522,7 +12522,7 @@
      fit-margin-top="20"
      inkscape:document-rotation="0"
      inkscape:guide-bbox="true"
-     showguides="true"
+     showguides="false"
      inkscape:snap-global="true"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
@@ -12541,11 +12541,11 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox="true"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      inkscape:document-units="mm"
-     inkscape:cy="2157.7904"
-     inkscape:cx="1184.0359"
-     inkscape:zoom="0.68879207"
+     inkscape:cy="1900.1623"
+     inkscape:cx="2794.8632"
+     inkscape:zoom="0.16339337"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -12649,10 +12649,6 @@
        id="guide6177"
        orientation="1,0"
        position="-249.26097,438.16351" />
-    <sodipodi:guide
-       position="1168.5327,66.014881"
-       orientation="0,-1"
-       id="guide6247" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -36032,11 +36028,11 @@
          y="-128.42381"
          x="1400.3707"
          sodipodi:role="line">icon30dpi</tspan><tspan
-         id="tspan8100"
+         id="tspan5612"
          style="font-size:16.9333px;stroke-width:0.264583"
          y="-107.25719"
          x="1400.3707"
-         sodipodi:role="line">edit144dpi</tspan><tspan
+         sodipodi:role="line">body144dpi</tspan><tspan
          id="tspan8102"
          style="font-size:16.9333px;stroke-width:0.264583"
          y="-86.090561"
