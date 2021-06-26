@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="connect.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 20 20"
+   height="20mm"
+   width="20mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="55.926559"
+     inkscape:cx="20.212429"
+     inkscape:zoom="0.98994949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       originy="-6.958343"
+       originx="-60.536468"
+       id="grid833"
+       type="xygrid" />
+    <sodipodi:guide
+       id="guide845"
+       orientation="1,0"
+       position="-26.802094,-26.619777" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-60.536469,-6.9583432)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="レイヤー 1">
+    <path
+       d="m 64.229149,15.76507 c -1.845627,1.845628 -2.050262,4.690808 -0.616882,6.759861 -0.02225,0.01859 -0.04408,0.03795 -0.06499,0.05886 l -2.72749,2.72749 c -0.377757,0.377757 -0.377757,0.985988 0,1.363745 0.377757,0.377757 0.985989,0.377757 1.363745,0 l 2.72749,-2.72749 c 0.02091,-0.02091 0.04027,-0.04275 0.05886,-0.06499 2.069053,1.43338 4.914233,1.228746 6.759861,-0.616882 l 2.386554,-2.386554 -1.363745,-1.363745 2.045618,-2.045617 c 0.377757,-0.377757 0.377757,-0.985988 -10e-7,-1.363745 -0.377757,-0.377758 -0.985988,-0.377757 -1.363744,-1e-6 l -2.045618,2.045618 -1.022809,-1.022809 -1.022809,-1.022808 2.045618,-2.045618 c 0.377757,-0.377757 0.377757,-0.985988 0,-1.363745 -0.377758,-0.377758 -0.985989,-0.377757 -1.363745,0 l -2.045618,2.045618 -1.363745,-1.363746 z"
+       style="fill:#000000;stroke-width:0.0546697;stroke-linecap:round;stroke-linejoin:round"
+       id="rect892" />
+    <path
+       d="m 66.95664,13.03758 1.022808,1.022809 1.704681,-1.704681 c 0.566636,-0.566635 1.478983,-0.566635 2.045618,0 0.566636,0.566635 0.566635,1.478982 0,2.045617 l -1.704681,1.704682 0.681873,0.681872 0.681872,0.681873 1.704681,-1.704681 c 0.566635,-0.566637 1.478982,-0.566637 2.045617,0 0.566634,0.566636 0.566637,1.478982 0,2.045617 l -1.70468,1.704681 1.022808,1.022809 2.386555,-2.386554 c 1.845632,-1.845632 2.05026,-4.690809 0.616882,-6.75986 0.02227,-0.01861 0.04409,-0.03796 0.06499,-0.05887 l 2.727488,-2.7274887 c 0.377757,-0.377756 0.377757,-0.985987 0,-1.363745 -0.377757,-0.377757 -0.985991,-0.377755 -1.363744,-1e-6 l -2.727491,2.727491 c -0.02092,0.02092 -0.04028,0.04275 -0.05886,0.06499 -2.069053,-1.4333791 -4.914228,-1.2287491 -6.75986,0.616882 z"
+       style="fill:#000000;stroke-width:0.0546697;stroke-linecap:round;stroke-linejoin:round"
+       id="path973" />
+  </g>
+</svg>
