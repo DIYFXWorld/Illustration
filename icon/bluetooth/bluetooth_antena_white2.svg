@@ -13,7 +13,10 @@
    version="1.1"
    id="svg3074"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="antena_white1.svg">
+   sodipodi:docname="antena_white2.svg"
+   inkscape:export-filename="K:\Resource\svg\Stompbox\icon\bluetooth\antena_white2.png"
+   inkscape:export-xdpi="16"
+   inkscape:export-ydpi="16">
   <defs
      id="defs3068" />
   <sodipodi:namedview
@@ -23,11 +26,11 @@
      pagecolor="#b5b8ad"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="44.259957"
-     inkscape:cy="83.160629"
+     inkscape:cx="80.922244"
+     inkscape:cy="81.386047"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -79,11 +82,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-44.742226,-113.81614)">
-    <path
-       sodipodi:nodetypes="ccccccccc"
-       d="m 74.310097,151.7395 c 5.297322,-4.44586 8.356273,-11.00762 8.355499,-17.92335 7.74e-4,-6.91577 -3.058177,-13.47748 -8.355499,-17.92338 m -6.921963,31.36589 c 3.974519,-3.33362 6.270284,-8.25506 6.270724,-13.44251 -4.4e-4,-5.18749 -2.296205,-10.10893 -6.270724,-13.44257 m -6.917866,22.40424 c 2.648663,-2.22294 4.178134,-5.50381 4.177751,-8.96167 3.83e-4,-3.45789 -1.529088,-6.73876 -4.177751,-8.96171"
-       style="fill:none;stroke:#ffffff;stroke-width:3.453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path7583" />
     <path
        sodipodi:nodetypes="ssccccccs"
        d="m 49.779396,128.98312 c -2.664977,0 -4.833563,2.16805 -4.833565,4.83303 2e-6,2.14501 1.406213,3.96772 3.344071,4.5981 v 13.89835 c -5.26e-4,0.82323 0.666809,1.49079 1.490034,1.49058 0.823224,2.1e-4 1.49055,-0.66735 1.490034,-1.49058 v -13.89835 c 1.937358,-0.63069 3.342988,-2.45344 3.34299,-4.5981 -2e-6,-2.66498 -2.168588,-4.83303 -4.833564,-4.83303 z"
